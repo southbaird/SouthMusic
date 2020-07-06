@@ -1,0 +1,3 @@
+include ':splayer'
+include ':app'
+rootProject.name = "SouthMusic"
